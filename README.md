@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Tauqeer@xemarij<br>- 👀 I’m interested in Machine Learning / Artificial Intelligence & Data Science. <br>- 🌱 I’m currently learning Artificial Intelligence.<br>- 💞️ I’m looking to collaborate on AI and Data Science Projects.<br>- 📫 How to reach me: xemarij@gmail.com <br>
+- 👋 Hi, I’m Tauqeer@xemarij<br>- 👀 I’m interested in Machine Learning / Artificial Intelligence & Data Science. <br>- 💞️ I’m looking to collaborate on AI and Data Science Projects.<br>- 📫 How to reach me: xemarij@gmail.com <br>
 
 
 ## 🌐 Socials:
